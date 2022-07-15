@@ -47,7 +47,7 @@
     </td>
     <td>
       <h2><a href="https://github.com/orchetect/OSCKit">OSCKit</a></h2>
-      A robust and precise Swift library for working with SMPTE timecode supporting 20 industry frame rates, including conversions to/from timecode strings and timecode-based calculations.
+      Open Sound Control (OSC) library written in Swift.
     </td>
   </tr>
   <tr>
@@ -56,6 +56,7 @@
     </td>
     <td>
       <h2><a href="https://github.com/orchetect/TimecodeKit">TimecodeKit</a></h2>
+      A robust and precise Swift library for working with SMPTE timecode supporting 20 industry frame rates, including conversions to/from timecode strings and timecode-based calculations.
     </td>
   </tr>
 </tbody></table>
