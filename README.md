@@ -61,7 +61,7 @@
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/SwiftRadix"><img src="Images/generic-kit.png"></a>
+      <a href="https://github.com/orchetect/SwiftRadix"><img src="Images/swiftradix.png"></a>
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/SwiftRadix">SwiftRadix</a></h3>
