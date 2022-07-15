@@ -43,7 +43,7 @@
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/OSCKit"><img src="Images/generic-kit.png"></a>
+      <a href="https://github.com/orchetect/OSCKit"><img src="Images/osckit.png"></a>
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/OSCKit">OSCKit</a></h3>
@@ -52,7 +52,7 @@
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/TimecodeKit"><img src="Images/generic-kit.png"></a>
+      <a href="https://github.com/orchetect/TimecodeKit"><img src="Images/timecodekit.png"></a>
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/TimecodeKit">TimecodeKit</a></h3>
