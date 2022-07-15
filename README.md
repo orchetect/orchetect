@@ -1,4 +1,4 @@
-# Featured Projects
+# Featured Swift Packages
 
 <table><tbody>
   <tr valign="top">
@@ -56,16 +56,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/TimecodeKit">TimecodeKit</a></h3>
-      A robust and precise Swift library for working with SMPTE timecode supporting 20 industry frame rates, including conversions to/from timecode strings and timecode-based calculations.
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>
-      <a href="https://github.com/orchetect/OSCKit"><img src="Images/generic-kit.png"></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/orchetect/OSCKit">OSCKit</a></h3>
-      Open Sound Control (OSC) library written in Swift.
+      A robust and precise Swift library for working with SMPTE timecode.
     </td>
   </tr>
   <tr valign="top">
@@ -74,8 +65,7 @@
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/SwiftRadix">SwiftRadix</a></h3>
-      Translate integers to and from radix strings (binary, hex, octal or any base) using simple, clean functional syntax.
+      Translate integers to/from radix strings (binary, hex, etc.) using convenient syntax.
     </td>
   </tr>
 </tbody></table>
-
