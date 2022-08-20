@@ -1,3 +1,9 @@
+# About Me
+
+My name is Steffan and I hail from beautiful Vancouver, Canada. On cloudy, rainy days I can be found sitting indoors coding. And on gloriously sunny days I can be found indoors coding.
+
+I have been a professional composer for film and TV for 15 years. In my spare time I build and maintain open-source packages for Swift on Apple platforms that I think people will find useful.
+
 # Featured Swift Packages
 
 <table><tbody>
@@ -8,37 +14,6 @@
     <td>
       <h3><a href="https://github.com/orchetect/MIDIKit">MIDIKit</a></h3>
       Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
-      <br>
-      <h4>Extensions</h4>
-      <table><tbody>
-        <tr>
-          <td width=85>
-            <a href="https://github.com/orchetect/MIDIKitControlSurfaces"><img src="Images/midikit-extension.png"></a>
-          </td>
-          <td>
-            <h4><a href="https://github.com/orchetect/MIDIKitControlSurfaces">MIDIKitControlSurfaces</a></h4>
-            Adds support for HUI protocol and more.
-          </td>
-        </tr>
-        <tr>
-          <td width=85>
-            <a href="https://github.com/orchetect/MIDIKitSync"><img src="Images/midikit-extension.png"></a>
-          </td>
-          <td>
-            <h4><a href="https://github.com/orchetect/MIDIKitSync">MIDIKitSync</a></h4>
-            Adds support for MTC (MIDI Timecode) protocol and more.
-          </td>
-        </tr>
-        <tr>
-          <td width=85>
-            <a href="https://github.com/orchetect/MIDIKitSMF"><img src="Images/midikit-extension.png"></a>
-          </td>
-          <td>
-            <h4><a href="https://github.com/orchetect/MIDIKitSMF">MIDIKitSMF</a></h4>
-            Adds support for Standard MIDI File reading/writing.
-          </td>
-        </tr>
-      </tbody></table>
     </td>
   </tr>
   <tr valign="top">
