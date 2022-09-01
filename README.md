@@ -2,7 +2,7 @@
 
 My name is Steffan and I hail from beautiful Vancouver, Canada. On cloudy, rainy days I can be found sitting indoors coding. And on gloriously sunny days I can be found indoors coding.
 
-I have been a professional composer for film and TV for 15 years. In my spare time I build and maintain open-source packages for Swift on Apple platforms that I think people will find useful.
+I have been a professional composer for film and TV for 15 years. In my spare time I build and maintain open-source packages for Swift on Apple platforms that I think people will find useful, with obsessive dedication to precision and reliability.
 
 # Featured Swift Packages
 
