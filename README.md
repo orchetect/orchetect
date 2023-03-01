@@ -1,10 +1,10 @@
-# About Me
+## About Me
 
-My name is Steffan and I hail from beautiful Vancouver, Canada. On cloudy, rainy days I can be found sitting indoors coding. And on gloriously sunny days I can be found indoors coding.
+My name is Steffan and I hail from beautiful Vancouver, Canada. On cloudy, rainy days I can be found sitting indoors coding. And on gloriously sunny days I can also be found indoors coding.
 
-I have been a professional composer for film and TV for 15 years. In my spare time I build and maintain open-source packages for Swift on Apple platforms that I think people will find useful, with obsessive dedication to precision and reliability.
+I've been a professional composer for film and TV for over 15 years. In my spare time I build and maintain open-source packages for Swift and SwiftUI that I think people will find useful, with an emphasis on precision, correctness and reliability.
 
-# Featured Swift Packages
+## Featured Swift Packages
 
 <table><tbody>
   <tr valign="top">
@@ -42,5 +42,30 @@ I have been a professional composer for film and TV for 15 years. In my spare ti
       <h3><a href="https://github.com/orchetect/SwiftRadix">SwiftRadix</a></h3>
       Translate integers to/from radix strings (binary, hex, etc.) using convenient syntax.
     </td>
+  </tr>
+</tbody></table>
+
+## Featured SwiftUI Packages
+
+<table><tbody>
+  <tr valign="top">
+    <td width=120>
+      <a href="https://github.com/orchetect/MacControlCenterUI"><img src="Images/generic-kit.png"></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/orchetect/MacControlCenterUI">MacControlCenterUI</a></h3>
+      SwiftUI menu builder DSL & controls that mimic macOS Control Center.
+    </td>
+  </tr>
+  </tr>
+  <tr valign="top">
+    <td width=120>
+      <a href="https://github.com/orchetect/MenuBarExtraAccess"><img src="Images/generic-kit.png"></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/orchetect/MenuBarExtraAccess">MenuBarExtraAccess</a></h3>
+      Show/hide SwiftUI MenuBarExtra menu using Bindings.
+    </td>
+  </tr>
   </tr>
 </tbody></table>
