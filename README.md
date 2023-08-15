@@ -1,8 +1,12 @@
 ## About Me
 
-My name is Steffan and I hail from beautiful Vancouver, Canada. On cloudy, rainy days I can be found sitting indoors coding. And on gloriously sunny days I can also be found indoors coding.
+My name is Steffan Andrews and I hail from beautiful Vancouver, Canada.
 
-I've been a professional composer for film and TV for over 15 years. In my spare time I build and maintain open-source packages for Swift and SwiftUI that I think people will find useful, with an emphasis on precision, correctness and reliability.
+I'm a professional [composer for film and TV](http://www.imdb.com/name/nm2862027) with over 16 years of experience specializing in animated series.
+
+I've helped build numerous commercial Mac applications including [Audio Design Desk](https://add.app) and [Dipper](https://dipper.audio).
+
+In my spare time I build and maintain open-source packages for Swift and SwiftUI.
 
 ## Featured Swift Packages
 
