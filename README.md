@@ -72,4 +72,16 @@ In my spare time I build and maintain open-source packages for Swift and SwiftUI
     </td>
   </tr>
   </tr>
+  </tr>
+  <tr valign="top">
+    <td width=120>
+      <a href="https://github.com/orchetect/SettingsAccess"><img src="Images/generic-kit.png"></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/orchetect/SettingsAccess">SettingsAccess</a></h3>
+      Open your macOS app's Settings scene programmatically without needing SettingsLink.
+    </td>
+  </tr>
+  </tr>
 </tbody></table>
+
