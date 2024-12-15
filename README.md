@@ -38,6 +38,15 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
   </tr>
   <tr valign="top">
     <td>
+      <a href="https://github.com/orchetect/PrefsKit"><img src="Images/prefskit.png"></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/orchetect/PrefsKit">PrefsKit</a></h3>
+      Modern, flexible, observable, testable app preferences written in Swift.
+    </td>
+  </tr>
+  <tr valign="top">
+    <td>
       <a href="https://github.com/orchetect/SwiftRadix"><img src="Images/swiftradix.png"></a>
     </td>
     <td>
@@ -46,6 +55,7 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
     </td>
   </tr>
 </tbody></table>
+
 
 ## Featured SwiftUI Packages
 
@@ -82,4 +92,3 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
   </tr>
   </tr>
 </tbody></table>
-
