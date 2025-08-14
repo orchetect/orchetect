@@ -2,7 +2,7 @@
 
 My name is Steffan Andrews and I hail from beautiful Vancouver, Canada.
 
-I'm a professional [composer for film and TV](http://www.imdb.com/name/nm2862027) with over 16 years of experience specializing in animated series.
+I'm a professional [composer for film and TV](http://www.imdb.com/name/nm2862027) with over 18 years of experience specializing in animated series.
 
 I'm also a life-long coder since 1995. I have helped build numerous commercial Mac applications including [Audio Design Desk](https://add.app) and [Dipper](https://dipper.audio). In my spare time I build and maintain open-source packages for Swift and SwiftUI.
 
@@ -55,8 +55,6 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
     </td>
   </tr>
 </tbody></table>
-
-
 ## Featured SwiftUI Packages
 
 <table><tbody>
