@@ -47,14 +47,15 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/SwiftRadix"><img src="Images/swiftradix.png"></a>
+      <a href="https://github.com/orchetect/swift-radix"><img src="Images/swiftradix.png"></a>
     </td>
     <td>
-      <h3><a href="https://github.com/orchetect/SwiftRadix">SwiftRadix</a></h3>
+      <h3><a href="https://github.com/orchetect/swift-radix">swift-radix</a></h3>
       Translate integers to/from radix strings (binary, hex, etc.) using convenient syntax.
     </td>
   </tr>
 </tbody></table>
+
 ## Featured SwiftUI Packages
 
 <table><tbody>
