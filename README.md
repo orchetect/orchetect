@@ -29,25 +29,25 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/TimecodeKit"><img src="Images/timecodekit.png"></a>
+      <a href="https://github.com/orchetect/swift-timecode"><img src="Images/swift-timecode.png"></a>
     </td>
     <td>
-      <h3><a href="https://github.com/orchetect/TimecodeKit">TimecodeKit</a></h3>
+      <h3><a href="https://github.com/orchetect/swift-timecode">swift-timecode</a></h3>
       A robust and precise Swift library for working with SMPTE timecode.
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/PrefsKit"><img src="Images/prefskit.png"></a>
+      <a href="https://github.com/orchetect/swift-prefs"><img src="Images/swift-prefs.png"></a>
     </td>
     <td>
-      <h3><a href="https://github.com/orchetect/PrefsKit">PrefsKit</a></h3>
+      <h3><a href="https://github.com/orchetect/swift-prefs">swift-prefs</a></h3>
       Modern, flexible, observable, testable app preferences written in Swift.
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <a href="https://github.com/orchetect/swift-radix"><img src="Images/swiftradix.png"></a>
+      <a href="https://github.com/orchetect/swift-radix"><img src="Images/swift-radix.png"></a>
     </td>
     <td>
       <h3><a href="https://github.com/orchetect/swift-radix">swift-radix</a></h3>
@@ -55,6 +55,7 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
     </td>
   </tr>
 </tbody></table>
+
 
 ## Featured SwiftUI Packages
 
