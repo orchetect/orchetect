@@ -11,11 +11,11 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
 <table><tbody>
   <tr valign="top">
     <td width=120>
-      <a href="https://github.com/orchetect/MIDIKit"><img src="Images/midikit.png"></a>
+      <a href="https://github.com/orchetect/swift-midi"><img src="Images/swift-midi.png"></a>
     </td>
     <td>
-      <h3><a href="https://github.com/orchetect/MIDIKit">MIDIKit</a></h3>
-      Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
+      <h3><a href="https://github.com/orchetect/swift-midi">swift-midi</a></h3>
+      Modular multi-platform MIDI toolkit with MIDI 2.0 support.
     </td>
   </tr>
   <tr valign="top">
@@ -55,6 +55,8 @@ I'm also a life-long coder since 1995. I have helped build numerous commercial M
     </td>
   </tr>
 </tbody></table>
+
+
 
 
 ## Featured SwiftUI Packages
